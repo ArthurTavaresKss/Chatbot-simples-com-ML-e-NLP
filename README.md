@@ -1,4 +1,4 @@
-# Chatbot Mercado — Python + IA + NLP
+# Chatbot Mercado — Python + ML + NLP
 
 Um chatbot inteligente, desenvolvido em Python, que reconhece intenções e responde de forma contextual utilizando técnicas de **Processamento de Linguagem Natural (NLP)** e **Machine Learning**.
 
