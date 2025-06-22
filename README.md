@@ -3,19 +3,22 @@
 Um chatbot inteligente, desenvolvido em Python, que reconhece intenções e responde de forma contextual utilizando técnicas de **Processamento de Linguagem Natural (NLP)** e **Machine Learning**.
 
 ## Funcionalidades
-- 🔸 Reconhecimento de intenções a partir de texto.
-- 🔸 Geração de respostas personalizadas com contexto.
-- 🔸 Treinamento com aprendizado supervisionado (Naive Bayes + TF-IDF).
-- 🔸 Avaliação de desempenho com Cross-Validation e relatórios de classificação.
-- 🔸 Processamento de linguagem com lematização, remoção de acentos, stopwords e pontuação.
+- Reconhecimento de intenções a partir de texto.
+- Geração de respostas personalizadas com contexto.
+- Treinamento com aprendizado supervisionado (Naive Bayes + TF-IDF).
+- Avaliação de desempenho com Cross-Validation e relatórios de classificação.
+- Processamento de linguagem com lematização, remoção de acentos, stopwords e pontuação.
 
 ------
 
 ## Estrutura dos Arquivos
 ChatbotMercado/
 ├── **intents.json** # Arquivo com as intenções, padrões e respostas
+
 ├── **IntentsBrain.py** # Código Python do chatbot
+
 ├── **README.md** # Este arquivo
+
 **requirements.txt** # Dependências do projeto
 
 ------
@@ -85,17 +88,6 @@ python IntentsBrain.py
 ###  Desenvolvedor
 👤 Arthur Tavares
 🚀 Projeto desenvolvido para fins educacionais e para aprendizado.
-
-# 🛒 Chatbot Mercado — Python + IA + NLP
-
-Um chatbot inteligente, desenvolvido em Python, que reconhece intenções e responde de forma contextual utilizando técnicas de **Processamento de Linguagem Natural (NLP)** e **Machine Learning**.
-
-## 🚀 Funcionalidades
-- 🔸 Reconhecimento de intenções a partir de texto.
-- 🔸 Geração de respostas personalizadas com contexto.
-- 🔸 Treinamento com aprendizado supervisionado (Naive Bayes + TF-IDF).
-- 🔸 Avaliação de desempenho com Cross-Validation e relatórios de classificação.
-- 🔸 Processamento de linguagem com lematização, remoção de acentos, stopwords e pontuação.
 
 ---
 
