@@ -14,7 +14,7 @@ nlp = spacy.load("pt_core_news_sm")
 model = MultinomialNB(alpha=0.1)
 
 # Carregar os dados do JSON
-with open("ChatbotMercado/intents.json", 'r', encoding='utf-8') as intRead:
+with open("intents.json", 'r', encoding='utf-8') as intRead:
     dados = json.load(intRead)
 
 # Definir as intenções, nomes e patterns
