@@ -88,6 +88,7 @@ python IntentsBrain.py
 
 ###  Desenvolvedor
 👤 Arthur Tavares
+
 🚀 Projeto desenvolvido para fins educacionais e para aprendizado.
 
 ---
