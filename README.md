@@ -13,13 +13,14 @@ Um chatbot inteligente, desenvolvido em Python, que reconhece intenções e resp
 
 ## Estrutura dos Arquivos
 ChatbotMercado/
+
 ├── **intents.json** # Arquivo com as intenções, padrões e respostas
 
 ├── **IntentsBrain.py** # Código Python do chatbot
 
-├── **README.md** # Este arquivo
+├── **requirements.txt** # Dependências do projeto
 
-**requirements.txt** # Dependências do projeto
+**README.md** # Este arquivo
 
 ------
 
