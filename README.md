@@ -45,7 +45,7 @@ cd ChatbotMercado
 
 2. Instale as dependências:
 ```bash
-pip install -r requirements.txt
+pip install -r requeriments.txt
 python -m spacy download pt_core_news_sm
 ```
 
