@@ -40,6 +40,7 @@ ChatbotMercado/
 1. Clone este repositório:
 ```bash
 git clone https://github.com/ArthurTavaresKss/Chatbot-simples-com-ML-e-NLP.git
+cd Chatbot-simples-com-ML-e-NLP
 cd ChatbotMercado
 ```
 
